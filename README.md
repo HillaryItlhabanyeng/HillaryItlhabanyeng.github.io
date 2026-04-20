@@ -53,12 +53,6 @@ Delivered exceptional customer service in a high-volume retail environment, ensu
 **Thabiso Makinta**  
 📞 067 677 9369 &nbsp;|&nbsp; 📧 StanceWorx@icloud.com
 
-
-
-## My Reflection: CV
-
-Before this task I had limited experience with Markdown. I knew it existed but had never used it to structure a full document like a CV. This assignment gave me hands-on exposure to how Markdown works as a lightweight markup language and how it can be used to present information in a clean, readable format. Getting started was straightforward. Markdown uses simple symbols like # for headings, | for tables, --- for dividers, and ** for bold text, which made it easy to pick up quickly. I used these elements to organise my CV into clear sections — Objective, Education, Experience, Technical Skills, Academic Results, and References. The table syntax was particularly useful for displaying my matric results and CPUT academic results in a structured way. One challenge I encountered was the limitation around styling. Unlike Word or HTML, Markdown does not support colors or custom fonts natively. My original CV had a distinctive dark navy and yellow color scheme, but in Markdown those visual elements could not be replicated. This made me realise that Markdown is best suited for content structure and readability rather than visual design. Overall, I found Markdown to be a practical and efficient tool, especially for developer environments like GitHub, where it renders cleanly. It taught me to think about content separately from presentation, which is actually a valuable principle in software development similar to separating logic from the UI. I now feel confident using Markdown for documentation, README files, and portfolio content going forward.
-
 ---
 
 ## 🎥 Mock Interview Video
@@ -68,6 +62,12 @@ Before this task I had limited experience with Markdown. I knew it existed but h
   Your browser does not support the video tag.
 </video>
 
+
+## My Reflection: CV
+
+Before this task I had limited experience with Markdown. I knew it existed but had never used it to structure a full document like a CV. This assignment gave me hands-on exposure to how Markdown works as a lightweight markup language and how it can be used to present information in a clean, readable format. Getting started was straightforward. Markdown uses simple symbols like # for headings, | for tables, --- for dividers, and ** for bold text, which made it easy to pick up quickly. I used these elements to organise my CV into clear sections; Objective, Education, Experience, Technical Skills, Academic Results, and References. The table syntax was particularly useful for displaying my matric results and CPUT academic results in a structured way. One challenge I encountered was the limitation around styling. Unlike Word or HTML, Markdown does not support colors or custom fonts natively. My original CV had a distinctive dark navy and yellow color scheme, but in Markdown those visual elements could not be replicated. This made me realise that Markdown is best suited for content structure and readability rather than visual design. Overall, I found Markdown to be a practical and efficient tool, especially for developer environments like GitHub, where it renders cleanly. It taught me to think about content separately from presentation, which is actually a valuable principle in software development similar to separating logic from the UI. I now feel confident using Markdown for documentation, README files, and portfolio content going forward.
+
+---
 ## My Reflection: Mock Interview Video
 
 As part of my GitHub portfolio assignment, I was required to embed a mock interview video into my Markdown CV hosted on GitHub Pages. This turned out to be one of the more challenging parts of the task, and I learned a lot from the process.

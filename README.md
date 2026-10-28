@@ -178,15 +178,15 @@ During my involvement in this project, I worked on the following areas:
 These tasks helped me gain exposure to database operations, performance-related work, and the relationship between database functionality and backend components.
 
 #### Evidence
-**PostgreSQL Query or Performance Result**
+**Performance Result**
 
 The screenshot below provides visual evidence of a query or performance result related to the PostgreSQL Database Performance project.
 
-![PostgreSQL Query or Performance Result](postgresql-performance.png)
+![PostgreSQL Query or Performance Result](postgres-query-result.png)
 
 *Figure 2: PostgreSQL query or performance result.*
 
-[View or download the full-size screenshot](postgresql-performance.png)
+[View or download the full-size screenshot](postgres-query-result.png)
 
 #### Reflection
 

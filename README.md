@@ -122,6 +122,120 @@ Reflecting on this experience, I understand that an Agile logbook is useful for 
 
 [Back to Portfolio Contents](#2-portfolio-contents)
 
+---
+### 2.1 Informix Monitoring Dashboard
+#### Project Overview
+The Informix Monitoring Dashboard is a live monitoring dashboard for IBM Informix database instances. It monitors the instance at regular intervals and displays its status in a clear, visual format. It helps users identify whether the instance is operating normally, approaching a limit, or requires immediate attention.
+The dashboard brings monitoring information together in one place, making it easier to observe the database instance's condition and identify potential issues.
+
+---
+
+#### My Contribution
+During my internship, I worked on several aspects of the Informix Monitoring Dashboard, including:
+
+- **Dashboard development:** Worked on designing or developing dashboard features.
+- **Backend and API functionality:** Worked on backend or API-related functionality.
+- **Database interaction:** Worked with Informix queries or database data.
+- **Monitoring metrics and alerts:** Worked on monitoring metrics or alert-related functionality.
+- **Testing and debugging:** Tested dashboard functionality and worked on fixing bugs.
+- **Project setup and configuration:** Worked on setting up or configuring the project.
+
+These tasks gave me practical exposure to dashboard development, database interaction, monitoring functionality, and testing. They also helped me develop my understanding of how different parts of a monitoring application work together.
+
+---
+#### Evidence
+**Informix Monitoring Dashboard**
+The screenshot below shows the dashboard interface and its monitoring information.
+
+![Informix Monitoring Dashboard Screenshot](informix-dashboard.png)
+
+*Figure 1: Informix Monitoring Dashboard interface.*
+
+[View or download the full-size screenshot](informix-dashboard.png)
+
+#### Reflection
+
+Working on the Informix Monitoring Dashboard gave me practical exposure to different areas of application development, including dashboard features, backend or API functionality, database queries, monitoring metrics, testing, and project configuration.
+
+The experience helped me understand the importance of presenting monitoring information clearly and checking that application functionality works as expected. I also learned that developing and maintaining an application involves more than building its interface; the backend, database interactions, monitoring logic, and testing all contribute to the overall result.
+
+As I worked through assigned tasks, guidance from experienced team members helped me understand unfamiliar technologies and approach technical challenges more systematically. Going forward, I want to strengthen my understanding of application architecture, improve my debugging and testing skills, and become more confident in completing technical tasks independently.
+
+---
+### 2.2 PostgreSQL Database Performance
+#### Project Overview
+The PostgreSQL Database Performance project focuses on database performance and related functionality. I began working on this project in October 2026 during my internship. It gave me an opportunity to work with PostgreSQL and gain practical experience with database-related tasks.
+
+#### My Contribution
+During my involvement in this project, I worked on the following areas:
+
+- **Database queries:** Worked with database queries.
+- **Performance monitoring and analysis:** Worked on monitoring or analysing database performance.
+- **Query optimisation:** Worked on query optimisation.
+- **Backend and API functionality:** Worked on backend or API-related functionality.
+- **Database setup and configuration:** Worked on setting up or configuring the database environment.
+
+These tasks helped me gain exposure to database operations, performance-related work, and the relationship between database functionality and backend components.
+
+#### Evidence
+**PostgreSQL Query or Performance Result**
+
+The screenshot below provides visual evidence of a query or performance result related to the PostgreSQL Database Performance project.
+
+![PostgreSQL Query or Performance Result](postgresql-performance.png)
+
+*Figure 2: PostgreSQL query or performance result.*
+
+[View or download the full-size screenshot](postgresql-performance.png)
+
+#### Reflection
+
+Working on the PostgreSQL Database Performance project gave me practical exposure to database queries, performance analysis, query optimisation, backend or API functionality, and database configuration.
+
+This experience helped me appreciate the importance of understanding how database queries and configuration relate to performance. It also reinforced the need to examine results carefully, understand task requirements, and seek guidance from experienced team members when working with unfamiliar technical areas.
+
+Going forward, I want to strengthen my PostgreSQL knowledge, improve my ability to investigate performance-related issues, and become more confident in completing database-related tasks independently.
+
+---
+
+### 2.3 Live Fraud Detection System
+
+#### Project Overview
+
+The Live Fraud Detection System is a project focused on fraud detection and monitoring. During my internship, I gained practical exposure to different aspects of the system, including fraud detection logic, backend functionality, database operations, and real-time processing.
+
+#### My Contribution
+
+During my involvement in this project, I worked on the following areas:
+
+- **Fraud detection logic and rules:** Worked on fraud detection logic or rules.
+- **Backend and API functionality:** Worked on backend or API-related functionality.
+- **Database queries and data handling:** Worked with database queries or data handling.
+- **Real-time monitoring and event processing:** Worked on real-time monitoring or event-processing functionality.
+- **Testing and debugging:** Tested functionality and worked on debugging.
+- **Project setup and configuration:** Worked on setting up or configuring the project.
+
+These tasks gave me exposure to different parts of a system involving fraud detection, data processing, backend functionality, and testing.
+
+#### Evidence
+
+**Live Fraud Detection System Interface**
+
+The screenshot below provides visual evidence of the system interface.
+
+![Live Fraud Detection System Screenshot](fraud-detection.png)
+
+*Figure 3: Live Fraud Detection System interface.*
+
+[View or download the full-size screenshot](fraud-detection.png)
+
+#### Reflection
+
+Working on the Live Fraud Detection System gave me exposure to different areas of application development, including fraud detection logic, backend or API functionality, database operations, real-time processing, testing, and project configuration.
+
+This experience helped me understand the importance of ensuring that different components of an application work together correctly. It also reinforced the value of testing functionality, investigating issues, and understanding how data moves through a system.
+
+Working with unfamiliar technologies encouraged me to ask questions and seek guidance from experienced team members when necessary. Going forward, I want to strengthen my technical problem-solving skills, improve my understanding of system integration, and become more confident in testing and debugging application functionality independently.
 
 ## 🎓 Education
 
@@ -165,6 +279,7 @@ Delivered exceptional customer service in a high-volume retail environment, ensu
 **Thabiso Makinta**  
 📞 067 677 9369 &nbsp;|&nbsp; 📧 StanceWorx@icloud.com
 
+---
 ## My Relection:CV
 
 Before this task, I had limited experience with Markdown. I knew it existed but had never used it to structure a full document like a CV. This assignment gave me hands-on exposure to how Markdown works as a lightweight markup language and how it can be used to present information in a clean, readable format.
